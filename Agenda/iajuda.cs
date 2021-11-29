@@ -8,6 +8,8 @@ namespace Agenda
 {
     public interface iajuda
     {
+        //editado 
+
         public string AjudaNovo();
         public string AjudaEdita();
         public string AjudaDeleta();
